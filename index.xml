@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>My New Hugo Site</title>
+    <link>http://blog.charlottendal.net/</link>
+    <description>Recent content on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 07 Jul 2018 00:00:00 +0200</lastBuildDate>
+    
+	<atom:link href="http://blog.charlottendal.net/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Some page</title>
+      <link>http://blog.charlottendal.net/pages/page-title/</link>
+      <pubDate>Sat, 07 Jul 2018 00:00:00 +0200</pubDate>
+      
+      <guid>http://blog.charlottendal.net/pages/page-title/</guid>
+      <description>Lite text på sidan.</description>
+    </item>
+    
+    <item>
+      <title>A new page</title>
+      <link>http://blog.charlottendal.net/pages/a-new-page/</link>
+      <pubDate>Sat, 07 Jul 2018 00:00:00 +0200</pubDate>
+      
+      <guid>http://blog.charlottendal.net/pages/a-new-page/</guid>
+      <description>Med text så kanske det blir bättre.</description>
+    </item>
+    
+    <item>
+      <title>With a subtitle</title>
+      <link>http://blog.charlottendal.net/blog/the-first-post/</link>
+      <pubDate>Mon, 09 Jul 2018 23:34:00 +0200</pubDate>
+      
+      <guid>http://blog.charlottendal.net/blog/the-first-post/</guid>
+      <description>some text. More text in this section.</description>
+    </item>
+    
+    <item>
+      <title>My blog posts Another title</title>
+      <link>http://blog.charlottendal.net/posts/blog/</link>
+      <pubDate>Sat, 07 Jul 2018 00:00:00 +0200</pubDate>
+      
+      <guid>http://blog.charlottendal.net/posts/blog/</guid>
+      <description>Pages Posts The first post With a subtitle some text.
+Another sub More text.
+ line 1 line 2  The second Post Subheading Another Some text. Räksmörgås
+DONE Some other text here more ramblings about notting. yada yada.</description>
+    </item>
+    
+    <item>
+      <title>Another sub</title>
+      <link>http://blog.charlottendal.net/blog/another-sub/</link>
+      <pubDate>Tue, 19 Dec 2017 00:00:00 +0100</pubDate>
+      
+      <guid>http://blog.charlottendal.net/blog/another-sub/</guid>
+      <description>Text som visar lite grann.</description>
+    </item>
+    
+  </channel>
+</rss>
