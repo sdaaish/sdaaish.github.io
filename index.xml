@@ -30,6 +30,24 @@
     </item>
     
     <item>
+      <title>Another</title>
+      <link>http://blog.charlottendal.net/blog/another/</link>
+      <pubDate>Mon, 09 Jul 2018 23:34:00 +0200</pubDate>
+      
+      <guid>http://blog.charlottendal.net/blog/another/</guid>
+      <description>Some text. Räksmörgås</description>
+    </item>
+    
+    <item>
+      <title>Subheading</title>
+      <link>http://blog.charlottendal.net/blog/the-second-post/</link>
+      <pubDate>Mon, 09 Jul 2018 23:34:00 +0200</pubDate>
+      
+      <guid>http://blog.charlottendal.net/blog/the-second-post/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>With a subtitle</title>
       <link>http://blog.charlottendal.net/blog/the-first-post/</link>
       <pubDate>Mon, 09 Jul 2018 23:34:00 +0200</pubDate>
@@ -48,6 +66,16 @@
 Another sub More text.
  line 1 line 2  The second Post Subheading Another Some text. Räksmörgås
 DONE Some other text here more ramblings about notting. yada yada.</description>
+    </item>
+    
+    <item>
+      <title>The late night show</title>
+      <link>http://blog.charlottendal.net/blog/the-late-night-show/</link>
+      <pubDate>Sat, 07 Jul 2018 00:00:00 +0200</pubDate>
+      
+      <guid>http://blog.charlottendal.net/blog/the-late-night-show/</guid>
+      <description>more ramblings about notting. yada yada.
+The exported Markdown has a little comment footer as set in the Local Variables section below.</description>
     </item>
     
     <item>

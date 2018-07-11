@@ -19,5 +19,14 @@
       <description></description>
     </item>
     
+    <item>
+      <title>Topic3</title>
+      <link>http://blog.charlottendal.net/categories/topic3/</link>
+      <pubDate>Sat, 07 Jul 2018 00:00:00 +0200</pubDate>
+      
+      <guid>http://blog.charlottendal.net/categories/topic3/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>

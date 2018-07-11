@@ -4,22 +4,37 @@
   
   <url>
     <loc>http://blog.charlottendal.net/pages/page-title/</loc>
-    <lastmod>2018-07-09T23:37:10+02:00</lastmod>
+    <lastmod>2018-07-11T23:34:22+02:00</lastmod>
   </url>
   
   <url>
     <loc>http://blog.charlottendal.net/pages/a-new-page/</loc>
-    <lastmod>2018-07-09T23:37:12+02:00</lastmod>
+    <lastmod>2018-07-11T23:34:24+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://blog.charlottendal.net/blog/another/</loc>
+    <lastmod>2018-07-11T23:34:31+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://blog.charlottendal.net/blog/the-second-post/</loc>
+    <lastmod>2018-07-11T23:34:30+02:00</lastmod>
   </url>
   
   <url>
     <loc>http://blog.charlottendal.net/blog/the-first-post/</loc>
-    <lastmod>2018-07-09T23:37:13+02:00</lastmod>
+    <lastmod>2018-07-11T23:34:27+02:00</lastmod>
   </url>
   
   <url>
     <loc>http://blog.charlottendal.net/posts/blog/</loc>
     <lastmod>2018-07-09T21:25:09+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://blog.charlottendal.net/blog/the-late-night-show/</loc>
+    <lastmod>2018-07-11T23:34:33+02:00</lastmod>
   </url>
   
   <url>
@@ -29,7 +44,7 @@
   
   <url>
     <loc>http://blog.charlottendal.net/blog/</loc>
-    <lastmod>2018-07-09T23:37:13+02:00</lastmod>
+    <lastmod>2018-07-11T23:34:31+02:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -40,13 +55,13 @@
   
   <url>
     <loc>http://blog.charlottendal.net/</loc>
-    <lastmod>2018-07-09T23:37:10+02:00</lastmod>
+    <lastmod>2018-07-11T23:34:22+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>http://blog.charlottendal.net/pages/</loc>
-    <lastmod>2018-07-09T23:37:10+02:00</lastmod>
+    <lastmod>2018-07-11T23:34:22+02:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -63,7 +78,13 @@
   
   <url>
     <loc>http://blog.charlottendal.net/categories/topic1/</loc>
-    <lastmod>2018-07-09T23:37:13+02:00</lastmod>
+    <lastmod>2018-07-11T23:34:27+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://blog.charlottendal.net/categories/topic3/</loc>
+    <lastmod>2018-07-11T23:34:33+02:00</lastmod>
     <priority>0</priority>
   </url>
   
